@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mohix Token (MOX)</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            background-color: #f8f9fa; 
+            text-align: center; 
+            padding: 50px;
+        }
+        h1 { color: #2c3e50; }
+        p { color: #34495e; font-size: 18px; }
+        .token-info, .launch {
+            background-color: #ffffff;
+            border-radius: 12px;
+            display: inline-block;
+            padding: 20px 40px;
+            margin-top: 30px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        .launch { background-color: #e8f5e9; }
+    </style>
+</head>
+<body>
+    <h1>mohix Token (MOX)</h1>
+
+    <!-- توضیح پروژه (Description) -->
+    <div class="token-info">
+        <p>mohix (MOX) is a community-driven ERC-20 token on the Polygon network with a total supply of 30,000,000 tokens. It supports minting and burning functionalities and aims to provide a secure and flexible digital asset for decentralized applications and transactions.</p>
+        <p><strong>Symbol:</strong> MOX</p>
+        <p><strong>Total Supply:</strong> 30,000,000</p>
+        <p><strong>Network:</strong> Polygon</p>
+        <p><strong>Contract Address:</strong> 0x87b11215c237226aF7435c50d3b8c9078E588cA4</p>
+    </div>
+
+    <!-- Launch Announcement -->
+    <div class="launch">
+        <h2>Launch Announcement</h2>
+        <p>mohix (MOX) token officially launched on the Polygon network with a total supply of 30,000,000 tokens.</p>
+        <p>Contract Address: 0x87b11215c237226aF7435c50d3b8c9078E588cA4</p>
+    </div>
+
+    <p style="margin-top:40px;">For more details, follow us on social media.</p>
+</body>
+</html>

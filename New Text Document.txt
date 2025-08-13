@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mohix Token (MOX)</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            background-color: #f8f9fa; 
+            text-align: center; 
+            padding: 50px;
+        }
+        h1 { color: #2c3e50; }
+        p { color: #34495e; font-size: 18px; }
+        .token-info {
+            background-color: #ffffff;
+            border-radius: 12px;
+            display: inline-block;
+            padding: 20px 40px;
+            margin-top: 30px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1
